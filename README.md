@@ -3,7 +3,7 @@
 <h3 align="center">Étudiant en BUT Informatique | Passionné par le DevOps</h3>
 
 <p align="center">
-  Je suis un développeur en formation, passioné par l'infrastructure, l'automatisation et le développement backend. Ayant touché au monde des Réseaux et Télécoms (R&T) avant l'informatique, je me dirige naturellement vers le métier DevOps.
+  Je suis un développeur en formation, passionné par l'infrastructure, l'automatisation et le développement backend. Ayant touché au monde des Réseaux et Télécoms (R&T) avant l'informatique, je me dirige naturellement vers le métier DevOps.
 </p>
 
 ---
@@ -12,9 +12,9 @@
 
 - 🎓 Je termine ma 1ère année de **BUT Informatique** (avec de solides bases préalables en réseaux via le BUT R&T).
 - ⚙️ **Mes centres d'intérêt :** L'architecture backend, le DevOps, et la création d'outils automatisés.
-- 🚀 **Projet actuel :** Développement de **[Smartlink](Lien vers le repo GitHub de Smartlink)**, un raccourcisseur d'URL performant propulsé par Node.js, PostgreSQL et intégrant un Bot Discord automatisé.
+- 🚀 **Projet actuel :** Développement de **[Smartlink](https://github.com/CunyMatteo/Projet_SmartLink)**, un raccourcisseur d'URL performant propulsé par Node.js, PostgreSQL et intégrant un Bot Discord automatisé.
 - 🌱 **J'apprends actuellement :** Docker, CI/CD, Automatisation, etc.
-- 📫 **Me contacter :** matteo.cuny@protonmail.com ou https://www.linkedin.com/in/matt%C3%A9o-cuny/
+- 📫 **Me contacter :** [matteo.cuny@protonmail.com](mailto:matteo.cuny@protonmail.com) ou [Mon profil LinkedIn](https://www.linkedin.com/in/matt%C3%A9o-cuny/)
 
 ---
 
@@ -37,7 +37,7 @@
 
 ### 🏆 Projet Phare
 
-#### 🔗 **[Smartlink]((Lien vers le repo GitHub de Smartlink))**
+#### 🔗 **[Smartlink](https://github.com/CunyMatteo/Projet_SmartLink)**
 Un service de raccourcissement d'URL complet créé de A à Z.
 - **Backend :** API REST en Node.js/JavaScript.
 - **Base de données :** PostgreSQL pour le stockage persistant et la gestion des liens.
@@ -48,5 +48,5 @@ Un service de raccourcissement d'URL complet créé de A à Z.
 ### 📊 Mes Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true" alt="Statistiques de TON_PSEUDO" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CunyMatteo&show_icons=true&theme=tokyonight&hide_border=true" alt="Statistiques de CunyMatteo" />
 </p>
