@@ -10,11 +10,11 @@
 
 ### 👨‍💻 À propos de moi
 
-- 🎓 Je termine ma 1ère année de **BUT Informatique** (avec de solides bases préalables en réseaux via le BUT R&T).
-- ⚙️ **Mes centres d'intérêt :** L'architecture backend, le DevOps, et la création d'outils automatisés.
-- 🚀 **Projet actuel :** Développement de **[Smartlink](https://github.com/CunyMatteo/Projet_SmartLink)**, un raccourcisseur d'URL performant propulsé par Node.js, PostgreSQL et intégrant un Bot Discord automatisé.
-- 🌱 **J'apprends actuellement :** Docker, CI/CD, Automatisation, etc.
-- 📫 **Me contacter :** [matteo.cuny@protonmail.com](mailto:matteo.cuny@protonmail.com) ou [Mon profil LinkedIn](https://www.linkedin.com/in/matt%C3%A9o-cuny/)
+- Je termine ma 1ère année de **BUT Informatique** (avec de solides bases préalables en réseaux via le BUT R&T).
+- **Mes centres d'intérêt :** L'architecture backend, le DevOps, et la création d'outils automatisés.
+- **Projet actuel :** Développement de **[Smartlink](https://github.com/CunyMatteo/Projet_SmartLink)**, un raccourcisseur d'URL performant propulsé par Node.js, PostgreSQL et intégrant un Bot Discord automatisé.
+- **J'apprends actuellement :** Docker, CI/CD, Automatisation, etc.
+- **Me contacter :** [matteo.cuny@protonmail.com](mailto:matteo.cuny@protonmail.com) ou [Mon profil LinkedIn](https://www.linkedin.com/in/matt%C3%A9o-cuny/)
 
 ---
 
