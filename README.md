@@ -37,7 +37,7 @@
 ### 🏆 Projet Phare
 
 #### 🔗 **[Smartlink](https://github.com/CunyMatteo/Projet_SmartLink)**
-Un service de raccourcissement d'URL complet créé de A à Z.
+Un service de raccourcissement d'URL complet en création.
 - **Backend :** API REST en Node.js/JavaScript.
 - **Base de données :** PostgreSQL pour le stockage persistant et la gestion des liens.
 - **Automatisation :** Intégration d'un Bot Discord pour interagir avec le service directement depuis un serveur.
